@@ -1,7 +1,7 @@
 # Prueba
 ##La germinación
-
-< http://youtu.be/99yKGsoLGv8
+ 
+|<iframe width="420" height="315" src="//www.youtube.com/embed/99yKGsoLGv8" frameborder="0" allowfullscreen></iframe>
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
